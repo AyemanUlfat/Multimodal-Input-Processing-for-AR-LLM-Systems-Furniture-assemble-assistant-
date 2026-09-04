@@ -30,7 +30,7 @@ The pipeline takes a photo of your workspace, detects which furniture parts and 
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 Input Image (workspace photo)
